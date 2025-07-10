@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Frontend Mentor</title>
+    <link rel="stylesheet" href="Style.css" />
+    <meta name="Author" content="Kelechi Ngene" />
+    <meta name="description" content="This is the first template I recreated" />
+    <link rel="icon" type="image/x-icon" href="Img/favicon-32x32.png" />
+  </head>
+  <body>
+    <div class="container">
+      <img
+        src="Img/illustration-article.svg"
+        alt="illustration-article"
+        class="Illustration-article"
+      />
+      <header>
+        <p class="learning">Learning</p>
+        <p class="published">Published 7 July 2025</p>
+      </header>
+
+      <main>
+        <h1>HTML & CSS foundations</h1>
+        <p class="Text">
+          These languages are the backbone of every website, defining structure,
+          content, and presentation.
+        </p>
+      </main>
+      <footer class="footer">
+        <img src="Img/image-avatar.webp" alt="Avatar" class="Avatar" />
+        <p><span id="Greg">Greg Hooper</span></p>
+      </footer>
+    </div>
+  </body>
+</html>
